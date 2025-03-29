@@ -10,7 +10,6 @@ import {
 } from "../src/algorithm";
 import { expect } from "chai";
 
-
 /*
  * Testing strategy for toBucketSets():
  *
